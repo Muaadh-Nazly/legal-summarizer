@@ -28,7 +28,8 @@ From the above facts it is clear that in 2009, the 1st Petitioner was not residi
 Thus when the 1st Petitioner, in the application marked P2, stated that in 2009 the Petitioners were residing at No. 50A, Edward Lane, Colombo3, it appears to be false.
 The Petitioners in the application marked P2, claim that, in 2010, they were residing at No. 50A, Edward Lane, Colombo.
 To prove the said fact, they have produced the Electoral Register for 2010 marked P25B wherein it states that they were, in 2010, residing at No. 50A, Edward Lane, Colombo3.
-But the NIC number of the 1st Petitioner given in P25B is 751380496X. The 1st Petitioner has produced a copy of his NIC marked P2G according to which his NIC number is 751380496V. Thus the NIC number of the 1st Petitioner stated in P25B is wrong.
+But the NIC number of the 1st Petitioner given in P25B is 751380496X. The 1st Petitioner has produced a copy of his NIC marked P2G according to which his NIC number is 751380496V.
+Thus the NIC number of the 1st Petitioner stated in P25B is wrong.
 This document has been prepared on the information given by the 1st Petitioner.
 It appears from the above mentioned material that the 1st Petitioner has submitted a wrong NIC number to the Election Department with the chief occupant list relating to No. 50A, Edward Lane, Colombo3.
 The Respondents have produced marked R1 the Electoral Register for the year 2010 relating to No. 100, Temple Road, Nawala wherein it states that the 1st Petitioner, in the year 2010 was residing at No. 100, Temple Road, Nawala and the NIC number is 751380496V. This NIC number of the 1st petitioner is correct according to the copy of his NIC (P2G). From R1 and P25B it appears that the 1st Petitioner, in the year 2010, has had two places of residences.
@@ -87,7 +88,8 @@ Further when he seeks intervention of court in a case of this nature, he must co
 If he does not do so or does not disclose true facts, his petition should be rejected on that ground alone.
 This view is supported by the following judicial decisions.
 In Jayasinghe Vs The National Institute of Fisheries [2002] 1SLR 277, the petitioner sought a declaration that his fundamental rights guaranteed under Article 12(1) of the Constitution have been violated by some of the respondents.
-The Supreme Court held thus: "The petitioner"s conduct lacked uberima fides.
+The Supreme Court held
+thus: "The petitioner"s conduct lacked uberima fides.
 The application has to be rejected in limine on this ground as well.
 This is a principle which applies to cases coming up before the Court in writ cases as well as in injunction applications and even in admiralty cases.
 In such cases relief will be refused in limine without hearing the case on the merits even where the decision is alleged to have been made without jurisdiction.
@@ -98,9 +100,11 @@ This too disentitled him to redress from court."
 In RPPN Sujeewa Sampath and RPPN Hasali Gayara Vs Sandamali Aviruppola, Principal Visakha Vidyalaya SC FR 31/2014 decided on 26.3.2015 wherein Justice Anil Gooneratne held as follows: "Where eligibility for school admission based on prescribed criteria is at issue, the burden is on the applicant to prove residence for the purpose of admission.
 This burden is to be discharged based on documents presented to the school authorities, which must be validated through a scrutiny and check conducted by the school authorities at the time that the application was presented.
 If incorrect particulars are provided by an applicant, the school authorities could reject the application."
-In the case of R Vs Kensington Income tax Commissioner (1917) 1 KB 486 at 495 Viscount Reading CJ observed thus: "... if the Court comes to the conclusion that an affidavit in support of the application was not candid and did not fairly state the facts, but stated them in such a way as to mislead the court as to the true facts, the Court ought, for its own protection and to prevent the abuse of its process, to refuse to proceed any further with the examination of the merits.
+In the case of R Vs Kensington Income tax Commissioner (1917) 1 KB 486 at 495 Viscount Reading CJ observed
+thus: "... if the Court comes to the conclusion that an affidavit in support of the application was not candid and did not fairly state the facts, but stated them in such a way as to mislead the court as to the true facts, the Court ought, for its own protection and to prevent the abuse of its process, to refuse to proceed any further with the examination of the merits.
 This is a power inherent in the Court, but one which should only be used in cases which bring conviction to the mind of the Court, that it has been deceived."
-His Lordship K Sripavan CJ in SC FR 13/2015 (Fundamental Rights case), (DT Wickramaratne and Others Vs University Grants Commission and Others- Decided on 20.7.2016) considered the above legal literature and remarked thus: "… Failure to attach the schedule in Annexure I to the letters filed by the Petitioners amounts to suppression of a material fact and the application of the Petitioners is liable to be dismissed without proceeding further with the examination on the merits."
+His Lordship K Sripavan CJ in SC FR 13/2015 (Fundamental Rights case), (DT Wickramaratne and Others Vs University Grants Commission and Others- Decided on 20.7.2016) considered the above legal literature and remarked
+thus: "… Failure to attach the schedule in Annexure I to the letters filed by the Petitioners amounts to suppression of a material fact and the application of the Petitioners is liable to be dismissed without proceeding further with the examination on the merits."
 I have earlier pointed out that the Petitioners have submitted documents which contained false facts.
 When I consider the above matters, I hold that the petitioners have not disclosed true facts to this court; that they have not come to court with frank and full disclosure of facts; and that their conduct lacked uberima fides.
 I therefore hold that they are not entitled to get relief from this court and that their petition should be dismissed.

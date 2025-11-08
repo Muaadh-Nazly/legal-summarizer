@@ -37,7 +37,8 @@ After considering the evidence led at the trial, I hold the view that the Defend
 In a case of this nature once the defendant established the fact that he did not receive summons and/or the ex-parte decree, the burden shifts to the Plaintiff to rebut the said position.
 How does he discharge this burden?
 This can be done by leading the evidence of the Process Server.
-This view is supported by the judicial decision in Wimalawathi Vs Thotamune [1998] 3 SLR 1 wherein Justice Ranaraja observed thus: " The affidavit filed by the Process Server is prima facie evidence of the fact that summons was duly served on the defendants mentioned therein and there is a presumption that summons was duly served.
+This view is supported by the judicial decision in Wimalawathi Vs Thotamune [1998] 3 SLR 1 wherein Justice Ranaraja observed
+thus: " The affidavit filed by the Process Server is prima facie evidence of the fact that summons was duly served on the defendants mentioned therein and there is a presumption that summons was duly served.
 Accordingly, the burden shifts on to the defendants to prove that no summons had been served.
 The defendants have to begin leading evidence.
 Once the defendants lead evidence to prove that summons had not been served on them and establish that fact, burden shifts back on to the plaintiffs to rebut that evidence.
