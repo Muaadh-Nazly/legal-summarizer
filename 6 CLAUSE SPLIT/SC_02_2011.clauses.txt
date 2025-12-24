@@ -26,7 +26,8 @@ The Petitioner filed an application for Special Leave to Appeal before this Cour
 3) Is the sum of Rs 250,000/= as security insufficient and disproportionate to the Respondents claim of US$ 130,000/= and legal interest from 18th February 1997?
 In the light of aforementioned questions of law this Court granted permission for the parties to tender written submissions.
 Having received and reassessed such submissions, this Court has examined and analyse the above questions of law.
-In regard to the first question of law, the Petitioner states that the present transaction was classified as "goods sold and delivered" and as a result the document marked X1 is not a written contract but a transaction for the sale of goods, as per Section 8 of the Prescription Ordinance.
+In regard to the first question of law, the Petitioner states that the present transaction was classified as "goods sold and delivered" and as a result the document marked X1 is not a written contract
+but a transaction for the sale of goods, as per Section 8 of the Prescription Ordinance.
 Therefore, the Respondents failure to institute action within a period of one year from the breach of such agreement caused the action to be prescribed in law.
 Section 8 of the Prescription Ordinance states as follows; "No action shall be maintainable for or in respect of any goods sold and delivered ....or for work and labour done..., unless the same shall be brought within one year after the debt shall have become due".
 Whereas, the Respondent alleges that the transaction was based on written conditions and is relevant to Section 6 of the Prescription Ordinance which reads as follows; "No action shall be maintainable..., upon any written promise, contract, bargain or agreement...unless such action shall be brought within six years from the date of the breach ...of such written promise, contract, bargain or agreement.."
@@ -39,7 +40,8 @@ It is clear that the provisions of the legislation are alike, as the language of
 When this depends on the nature of the obligation sued on and the terms of the contract, and also on whether a repudiatory breach is accepted by the claimant' [Sime, S (12th ed. 2009), 'A Practical Approach to Civil Procedure', Oxford University Press, Oxford, p 95].
 It is perhaps relevant to observe a series of cases which established the time period an action for a breach of contract/ agreement ought to be instituted.
 Lord Esher MR's statement in Coburn v Colledge [1897] 1 QB 702 at p 705 G is referred in the case of Henry Boot construction Ltd v Alstom Combined Cycles Ltd [2005] 1 WLR 3850; Where A does work for B at B's request on terms that A is entitled to be paid for it, his right to be paid for it (ie his cause of action) arises as soon as the work is done "unless there is some special term of the agreement to the contrary'.
-In Reeves v Butcher [1891] 2 QB 509 at p 511, Lord Justice Lindley held; The right to bring an action may arise on various events; but it has always been held that the statute runs from the earliest time at which an action could be brought.'
+In Reeves v
+Butcher [1891] 2 QB 509 at p 511, Lord Justice Lindley held; The right to bring an action may arise on various events; but it has always been held that the statute runs from the earliest time at which an action could be brought.'
 Accordingly, the opinion of this Court is that, in the light of the aforesaid judgments, the interest of justice mandates this court to agree with the opinion with the learned Judge of the Commercial High Court.
 The Respondent has instituted the first action at the earliest time at which an action could be brought and such action was instituted within a period of 6 years of the breach of the written contract as specified in Section 6 of the Prescription Ordinance.
 As the second question of law the Petitioner averred that the learned Judge of the Commercial High Court failed to consider Section 763 of the Civil Procedure Code and that the reference in the journal entry for a sum of Rs.250,000/= to be deposited by the Respondent as security before the execution of the decree is wrong in law.
@@ -74,6 +76,7 @@ Needless to say that the discretion is to be exercised judicially and not arbitr
 In as much as satisfaction of money decree does not amount to irreparable injury and in the event of the appeal being allowed, the remedy of restitution is always available to the successful party.
 Still the power is there of course, a discretionary power and is meant to be exercised in appropriate cases."
 In B.P. Agarwal & anr case affirming the above decision held the following; "The appellate court, indisputably, has the discretion to direct deposit of such amount, as it may think fit".
-Accordingly, the opinion of this Court is that the learned Judge of the Commercial High Court has not made an error in law but had provided safeguards to protect the Petitioner regardless of the Petitioners failure to provide substantial cause as a precondition to obtaining security in his favour.
+Accordingly, the opinion of this Court is that the learned Judge of the Commercial High Court has not made an error in law
+but had provided safeguards to protect the Petitioner regardless of the Petitioners failure to provide substantial cause as a precondition to obtaining security in his favour.
 For the aforesaid reasons this appeal to set aside the order dated 12th November 2010 is dismissed and the judgment of the Commercial High Court is affirmed.
 JUDGE OF THE SUPRME COURT AMARATUNGA, J I agree JUDGE OF THE SUPRME COURT SURESH CHANDRA, J I agree JUDGE OF THE SUPRME COURT

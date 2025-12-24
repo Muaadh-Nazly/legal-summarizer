@@ -38,7 +38,8 @@ Section 183A (b) reads as follows:"Where the action is brought by or against a c
 Provided that in each of the foregoing cases the person who makes the affidavit instead of the party to the action, must be a person having personal knowledge of the facts of the cause of action…… (emphasis added)
 The learned counsel for the Respondent has argued that the term Director is defined in Section 529 (1) of the Companies Act and where the Petitioner is a company and a party to an action, if an affidavit is to be made, such an affidavit can only be made by a person holding one of the positions referred to in section 183A (b) of the Companies Act.
 He has further submitted that the affirmant is not a Director of the Petitioner company within the meaning of section 529 (1) of the Companies Act though he is called the Director in charge of Human Resources and Administration.
-Section 183A (b) does not only stipulate that the affidavit must be from a person holding the position of secretary, director or other principal officer as the case may be but the said provision also requires that the affidavit must emanate from a person who has personal knowledge of the facts of the cause of action.
+Section 183A (b) does not only stipulate that the affidavit must be from a person holding the position of secretary, director or other principal officer as the case may be
+but the said provision also requires that the affidavit must emanate from a person who has personal knowledge of the facts of the cause of action.
 In view of the second requirement in Section 183A (b) that I have referred to, the statute permits any principal officer of the organization to swear an affidavit in instances where a company is a party to a litigation if such person has personal knowledge of the facts of the cause of action.
 A principal officer of an organisation is an officer who heads a high level office in an organisation or an officer who is at the same level as a department head.
 As the capacity of the affirmant is Director of Human Resources and Administration, of the Petitioner company, I see no reason as to why the affirmant cannot be considered as a principal officer, especially in a matter concerning a workman of the Petitioner company.
@@ -47,9 +48,11 @@ As observed by Justice Sharvannda as he then was, in the case of Kobbekaduwa V J
 The affidavit furnishes prima facie evidence of the facts deposed to in the affidavit.
 Section 13 of the Oaths and Affirmation Ordinance (Cap.17) furnishes the sanction against a false affidavit by making the deponent guilty of the offence of giving false evidence.
 In an affidavit a person can depose only to facts which he is able of his own knowledge and observation to testify".
-Affidavits are valuable documents in presenting evidence in court not only when a witness is unable to testify in person, but also when the procedure (appellate) lays down that evidence that is material, be placed before court by way of affidavits effectively shutting out oral evidence from such legal proceedings.
+Affidavits are valuable documents in presenting evidence in court not only when a witness is unable to testify in person,
+but also when the procedure (appellate) lays down that evidence that is material, be placed before court by way of affidavits effectively shutting out oral evidence from such legal proceedings.
 Thereby, when a litigant is aggrieved by an order of court and seeks redress by way of an appeal such a person has no option other than to follow the procedure laid down by law which is to present his case through the medium of an affidavit.
-This court is mindful of the fact that litigants who are not fully conversant with the procedures established by law have no option but to rely on legal advice not only regarding the nature of redress, but also regarding the procedure to be followed in placing their case before the forum vested with jurisdiction to adjudicate on the matter.
+This court is mindful of the fact that litigants who are not fully conversant with the procedures established by law have no option
+but to rely on legal advice not only regarding the nature of redress, but also regarding the procedure to be followed in placing their case before the forum vested with jurisdiction to adjudicate on the matter.
 Although the infirmities referred to by the Respondent are, in my view technical in nature, I wish to state that in the instant application, in making the affidavit in question, the Attorney-at –Law on record has failed to exercise due diligence required of him.
 Such conduct should not be condoned.
 He has failed to discharge his professional duty as an attorney-at-law and has shown scant concern for the interest of his client whom he is professionally bound to serve.
