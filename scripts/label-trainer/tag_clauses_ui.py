@@ -4,16 +4,14 @@ import json
 import gradio as gr
 
 # CONFIG
-DATA_DIR = "Selected Files/Fundamental Rights"
-OUTPUT_DIR = "Annotated/Fundamental Rights"
+DATA_DIR = "Selected Files/Civil Appeal"
+OUTPUT_DIR = "Newly Annotated/Civil Appeal"
 LABELS = ["Claim", "Premise", "Opposition", "None"]
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 # UTILITIES
-
-
 def natural_key(value: str):
     parts = re.split(r"(\d+)", value)
     return [int(p) if p.isdigit() else p.lower() for p in parts]
