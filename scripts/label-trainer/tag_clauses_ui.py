@@ -1,3 +1,11 @@
+"""
+Manual clause-tagging UI for legal judgement clauses.
+
+Load clause-split documents, display one clause at a time in a Gradio web interface, and let annotators assign labels (Claim, Premise, Opposition, None).
+Annotations are saved as JSON per document for use in training or evaluation.
+Supports navigation, editing clause text, splitting clauses, and resuming from saved annotations.
+"""
+
 import os
 import re
 import json
