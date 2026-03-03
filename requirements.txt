@@ -1,10 +1,45 @@
-torch==2.2.2
-torchvision==0.17.2
-torchaudio==2.2.2
-spacy==3.7.2
-pandas==2.2.2
-scikit-learn==1.4.2
-nltk==3.8.1
-numpy==1.26.4
-tqdm==4.66.4
-regex==2024.5.15
+# Full-pipeline requirements
+# Base stack = Do not change torch/transformers/surya versions below.
+
+# Base
+torch==2.9.0
+torchvision==0.24.0
+transformers==4.57.1
+surya-ocr==0.17.1
+
+pdfplumber==0.11.9
+pdf2image==1.17.0
+pdfminer.six==20251230
+
+
+# Translator
+peft==0.18.1
+accelerate==1.12.0
+safetensors==0.7.0
+huggingface_hub==0.36.2
+
+# Text / NLP
+regex==2025.11.3
+spacy==3.8.11
+
+# Graph & ranking
+networkx==3.6.1
+scikit-learn==1.6.1
+numpy==2.0.2
+scipy==1.16.3
+tqdm==4.67.1
+torch-geometric==2.7.0
+
+# Abstraction & merge
+PyMuPDF==1.27.1
+pytesseract==0.3.13
+
+# Misc
+pandas==2.3.3
+matplotlib==3.10.0
+
+# Web UI
+gradio==5.50.0
+fastapi==0.123.10
+uvicorn==0.40.0
+starlette==0.50.0
