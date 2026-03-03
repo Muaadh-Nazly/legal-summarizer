@@ -1,7 +1,7 @@
 """
 Extract Precedent Citations from Annotated Clause JSONs
 
-Reads only annotated *.clauses.json files. The script:
+Reads *.annotated.json (pipeline naming), or *.clauses.json as fallback. The script:
 - Extracts precedent citations from clause text (regex/patterns)
 - Maps citations to document IDs
 - Optionally finds target clauses in cited documents using InCaseLawBERT similarity
@@ -402,9 +402,10 @@ def extract_citations_from_doc(
                 # Try to load cited document's clauses
                 cited_doc_id = cit["cited_doc_id"]
 
-                # Candidate file names
+                # Candidate file names (pipeline: .annotated.json then .clauses.json / .json)
                 def _candidate_names(doc_id: str):
                     return [
+                        f"{doc_id}.annotated.json",
                         f"{doc_id}.clauses.json",
                         f"{doc_id}.json",
                     ]
@@ -509,10 +510,16 @@ def main():
     doc_files = []
     for d in ANNOTATED_DIRS:
         if d.exists():
-            doc_files.extend(d.glob("*.clauses.json"))
+            doc_files.extend(d.glob("*.annotated.json"))
+    if not doc_files:
+        for d in ANNOTATED_DIRS:
+            if d.exists():
+                doc_files.extend(d.glob("*.clauses.json"))
     doc_files = sorted(set(doc_files))
     if not doc_files:
-        print(f"❌ No *.clauses.json found under {ANNOTATED_DIRS}")
+        print(
+            f"❌ No *.annotated.json (or *.clauses.json) found under {ANNOTATED_DIRS}"
+        )
         return
     print(f"Annotated dirs: {ANNOTATED_DIRS}")
     print(f"Found {len(doc_files)} file(s)")
