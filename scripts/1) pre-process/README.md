@@ -15,12 +15,12 @@ Preprocessing pipeline for Sri Lankan Supreme Court judgment PDFs: **extract →
 
 ## Extra
 
-- **fine-tune-nllb 1.3b.ipynb** — Fine-tune NLLB-200-1.3B (e.g. Sinhala → English) and save adapter/tokenizer for use in Stage 3.
+- **fine-tune-nllb 1.3b.ipynb** - Fine-tune NLLB-200-1.3B (e.g. Sinhala → English) and save adapter/tokenizer for use in Stage 3.
 
 ## Dependencies
 
 - Stage 1: `surya-ocr`, `pdfplumber`, `pdf2image`, `pdfminer.six`, `Pillow`, `torch`, `transformers`; system `poppler-utils`.
-- Stages 2–6: `regex`, `spacy` (e.g. `en_core_web_trf` for clause splitting).
+- Stages 2-6: `regex`, `spacy` (e.g. `en_core_web_trf` for clause splitting).
 - Stage 3 / fine-tune: `peft`, `accelerate`, `safetensors`, `transformers`.
 
 Outputs follow pipeline naming (e.g. `*.extracted.txt`, `*.cleaned.txt`, …).
