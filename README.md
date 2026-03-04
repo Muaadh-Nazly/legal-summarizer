@@ -8,11 +8,11 @@ An automated system that finds and summarizes the key arguments in **Sri Lankan 
 
 The pipeline:
 
-1. **Preprocess** — Extract text, Clean, Translate Sinhala/Tamil → English, Split metadata/body, Split sentences, then clauses.
-2. **Annotate** — Manually or automatically label clauses (Claim, Premise, Opposition, None) for argument structure.
-3. **Graph** — Build intra-document argument graphs (label + semantic edges), optionally add inter-document citation edges.
-4. **Rank** — Score and select top clauses (hybrid ranker with adaptive top-k).
-5. **Summarize** — Abstractive summarization over selected clauses; merge summary into original PDF.
+1. **Preprocess** - Extract text, Clean, Translate Sinhala/Tamil → English, Split metadata/body, Split sentences, then clauses.
+2. **Annotate** - Manually or automatically label clauses (Claim, Premise, Opposition, None) for argument structure.
+3. **Graph** - Build intra-document argument graphs (label + semantic edges), optionally add inter-document citation edges.
+4. **Rank** - Score and select top clauses (hybrid ranker with adaptive top-k).
+5. **Summarize** - Abstractive summarization over selected clauses; merge summary into original PDF.
 
 The system can be run **stage-by-stage scripts** (notebooks and Python in `scripts/`) for development and training, or use the **end-to-end pipeline** (single Gradio UI) to go from PDF(s) to final summarized PDF(s).
 
@@ -44,8 +44,8 @@ Legal-Summarizer/
 
 ## Models
 
-- **InCaseLawBERT** — BERT model for clause embeddings and sequence classification (argument labels). Used in prediction, graph construction, and citation matching.
-- **NLLB-1.3B + LoRA** — Translation (Sinhala/Tamil → English); optional fine-tuned adapter in `models/nllb_sinhala2english_lora/`.
+- **InCaseLawBERT** - BERT model for clause embeddings and sequence classification (argument labels). Used in prediction, graph construction, and citation matching.
+- **NLLB-1.3B + LoRA** - Translation (Sinhala/Tamil → English); optional fine-tuned adapter in `models/nllb_sinhala2english_lora/`.
 - **GNN** — Optional encoder for clause graph embeddings used in ranking (trained in `scripts/3) graph-construction/`).
 
 Place model weights in `models/` or set paths in `pipeline_config.py` (end-to-end) or the relevant script configs.
