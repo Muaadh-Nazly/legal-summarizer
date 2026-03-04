@@ -46,7 +46,7 @@ Legal-Summarizer/
 
 - **InCaseLawBERT** - BERT model for clause embeddings and sequence classification (argument labels). Used in prediction, graph construction, and citation matching.
 - **NLLB-1.3B + LoRA** - Translation (Sinhala/Tamil → English); optional fine-tuned adapter in `models/nllb_sinhala2english_lora/`.
-- **GNN** — Optional encoder for clause graph embeddings used in ranking (trained in `scripts/3) graph-construction/`).
+- **GNN** - Optional encoder for clause graph embeddings used in ranking (trained in `scripts/3) graph-construction/`).
 
 Place model weights in `models/` or set paths in `pipeline_config.py` (end-to-end) or the relevant script configs.
 
