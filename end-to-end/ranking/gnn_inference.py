@@ -38,10 +38,10 @@ class RGCNModel(torch.nn.Module):
     ):
         super().__init__()
         self.convs = torch.nn.ModuleList()
-        self.convs.append(RGCNConv(in_dim, hidden_dim, num_relations, num_bases=30))
+        self.convs.append(RGCNConv(in_dim, hidden_dim, num_relations, num_bases=50))
         for _ in range(num_layers - 1):
             self.convs.append(
-                RGCNConv(hidden_dim, hidden_dim, num_relations, num_bases=30)
+                RGCNConv(hidden_dim, hidden_dim, num_relations, num_bases=50)
             )
         self.lin = torch.nn.Linear(hidden_dim, out_dim)
         self.dropout = dropout
