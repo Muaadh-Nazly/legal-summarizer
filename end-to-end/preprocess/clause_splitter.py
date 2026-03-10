@@ -1,11 +1,8 @@
 # LIBRARIES
 import re
-import spacy
 from pathlib import Path
 import os
 
-
-nlp = spacy.load("en_core_web_trf")
 # CLAUSE SPLIT MARKERS
 # Strong idea markers which create independent clauses when split
 IDEA_MARKERS = [

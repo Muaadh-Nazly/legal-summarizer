@@ -20,7 +20,6 @@ huggingface_hub==0.36.2
 
 # Text / NLP
 regex==2025.11.3
-spacy==3.8.11
 
 # Graph & ranking
 networkx==3.6.1

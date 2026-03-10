@@ -20,7 +20,7 @@ Preprocessing pipeline for Sri Lankan Supreme Court judgment PDFs: **extract →
 ## Dependencies
 
 - Stage 1: `surya-ocr`, `pdfplumber`, `pdf2image`, `pdfminer.six`, `Pillow`, `torch`, `transformers`; system `poppler-utils`.
-- Stages 2-6: `regex`, `spacy` (e.g. `en_core_web_trf` for clause splitting).
+- Stages 2-6: `regex`.
 - Stage 3 / fine-tune: `peft`, `accelerate`, `safetensors`, `transformers`.
 
 Outputs follow pipeline naming (e.g. `*.extracted.txt`, `*.cleaned.txt`, …).
