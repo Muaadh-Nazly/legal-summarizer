@@ -3,6 +3,19 @@
 An automated system that finds and summarizes the key arguments in **Sri Lankan Supreme Court judgments**. It processes judgment PDFs (including multilingual English, Sinhala, and Tamil text), builds clause-level argument graphs with precedent citations, ranks the most important clauses, and produces structured summaries merged back into PDFs.
 
 ---
+## 🏗️ System Architecture
+
+![Pipeline](assets/pipeline.png)
+
+---
+
+## 🎬 Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/PWj2yHogPOo/maxresdefault.jpg)](https://youtu.be/PWj2yHogPOo)
+
+> Click the thumbnail above to watch the full end-to-end demo - from PDF upload to final summarized output via the Gradio UI.
+
+---
 
 ## Overview
 
